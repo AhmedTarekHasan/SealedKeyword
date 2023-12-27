@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/compiler-friendly-code-sealed-keyword-in-net-c-b363fbcd1e35?sk=2af1795f6da5a5948ef8d9e5048da36c" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/compiler-friendly-code-sealed-keyword-in-net-c" />
 
 # Compiler-Friendly Code: Sealed Keyword in .NET C#
 ### Why & When Sealed Keyword could lead to a performance boost in .NET C#.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/4800/1*PmGDbQkDhcB_zUCFBVDn0w.webp">
+  <img src="https://static.wixstatic.com/media/488a99_8323628943db4e4bb82bb57e42827246~mv2.png">
 </p>
 
 <br/>
@@ -61,4 +61,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/compiler-friendly-code-sealed-keyword-in-net-c-b363fbcd1e35?sk=2af1795f6da5a5948ef8d9e5048da36c
+[Article]: https://www.developmentsimplyput.com/post/compiler-friendly-code-sealed-keyword-in-net-c
